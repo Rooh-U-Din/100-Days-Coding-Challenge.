@@ -1,1 +1,2 @@
-# 100-Days challenge Day-1
+# 100-Days challenge
+
